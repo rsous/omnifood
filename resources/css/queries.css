@@ -175,12 +175,12 @@
       font-size: 120%;
     }
 
-    .works-step {
+    /*.works-step {
       margin-bottom: 20px;
     }
     .works-step:last-of-type {
       margin-bottom: 20px;
-    }
+    }*/
 
     .footer-nav {
       float: none;
@@ -201,15 +201,62 @@
       padding: 25px 0;
     }
 
+    .hero-textbox {
+      padding-top: 20px;
+    }
+
+    .hero-textbox h1 {
+      margin-bottom: 30px;
+      line-height: 1.5;
+      padding-left: 10px;
+      font-size: 150%;
+    }
+
+    .hero-textbox .btn {
+      margin: 22px calc((100% - 164px) / 2) 0 calc((100% - 164px) / 2);
+      display: inline-block;
+      width: 164px;
+      text-align: center;
+    }
+
+    .js--wp-1 .col {
+      margin: 0 0 10% 0;
+    }
+    .col .icon-big {
+      margin: 0 auto 10px auto;
+    }
+
+    .col h3 {
+      text-align: center;
+    }
+
+    .col p {
+      text-align: justify;
+    }
+
+    .meals-showcase li {
+      width: 50%;
+    }
+
     .works-step {
       width: 80%;
       margin-left: 10%;
       margin-right: 10%;
+      margin-bottom: 30px;
+    }
+
+    .btn-box {
+      display: flex;
+      justify-content: center;
     }
 
     .btn-app img {
       height: 35px;
       margin-top: 15px;
+    }
+
+    .js--wp-3 .box:not(:last-child) {
+      margin-bottom: 10%;
     }
 
     .contact-form {

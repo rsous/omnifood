@@ -404,6 +404,11 @@ header {
   margin-right: 25px;
 }
 
+.btn-box {
+  display: flex;
+  justify-content: center;
+}
+
 .btn-app:link,
 .btn-app:visited {
   border: 0;
