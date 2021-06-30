@@ -73,6 +73,8 @@
 
 Page designed by Jonas Schmedtmann for his online courses and built by myself while taking his Udemy course.
 
+This project is just meant to showcase the results of my journey and small achievements in my front-end development learning process.
+
 ### Built With
 
 - [CSS]()
@@ -95,7 +97,9 @@ To get a local copy up and running follow these simple steps.
 
 ## Usage
 
-This project is just to showcase the results of my journey and small achievements in my front-end development learning process.
+To have access to the development environment:
+
+1. Use an IDE of your preference
 
 <!-- ROADMAP -->
 
@@ -107,7 +111,7 @@ See the [open issues](https://github.com/rsous/omnifood/issues) for a list of pr
 
 ## Contact
 
-Rodolfo - [@rsovs](https://twitter.com/rsovs) - rsous@pm.me
+Rodolfo - [@rsovs](https://twitter.com/rsovs) - rsovs@pm.me
 
 Project Link: [https://github.com/rsous/omnifood](https://github.com/rsous/omnifood)
 
